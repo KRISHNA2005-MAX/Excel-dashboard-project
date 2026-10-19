@@ -1,4 +1,4 @@
-# Excel-dashboard-project
+
 # 📊 Excel Sales Performance Dashboard
 
 ## 📌 Project Overview
@@ -49,10 +49,8 @@ The project uses sales performance data containing information about cities, sal
 
 The dashboard provides a consolidated view of sales performance, target achievement, and executive-wise comparisons with interactive city selection.
 
-[_Add your dashboard screenshot here:_
-
-`![Excel Sales Performance Dashboard](Excel%20Dashboard.png)`
-](https://github.com/KRISHNA2005-MAX/Excel-dashboard-project/blob/main/Excel%20Dashboard.png)
+## Screenshot/Demo:
+https://github.com/KRISHNA2005-MAX/Excel-dashboard-project/blob/main/Excel%20Dashboard.png
 
 ## 📚 Key Learnings
 
